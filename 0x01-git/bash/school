@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "The school is open!"
-_EOF__
+echo "The school is open!" 
